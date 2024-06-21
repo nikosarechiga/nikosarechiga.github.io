@@ -1,4 +1,4 @@
-# Nikos Ar\'echiga
+# Nikos Aréchiga
 Hello! I am a Senior Research Scientist at Toyota Research Institute. I work on using generative AI with a focus on two core application areas.
 - Physics-informed generative AI for engineering design.
 - Using large language models to better understand human behavior.
